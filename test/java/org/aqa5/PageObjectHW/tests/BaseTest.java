@@ -9,4 +9,8 @@ public class BaseTest {
     public void setUp() {
         driver = new ChromeDriver();
     }
+
+    public void ttt() {
+        //sjfhsdjhgfj
+    }
 }
